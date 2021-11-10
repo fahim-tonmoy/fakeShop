@@ -1,0 +1,6 @@
+1. col fixed
+2. image fixed
+3. total amount fixed
+4. decimal point fixed
+5. raitng and count show
+6. search button spacing 
